@@ -1,6 +1,6 @@
 Hi, I’m @fforrestt
-I’m interested in all things data!
-I'm currently an applied data sciences master's student at Syracuse University. So far I've honed my SQL, R, Tableau, and Excel abilities.   
+I’m interested in all things data.
+I'm currently an applied data sciences master's student at Syracuse University. So far I've honed my SQL, python, R, Tableau, and Excel abilities.   
 https://www.linkedin.com/in/forrest-fallon-b58491113
 
 <!---
